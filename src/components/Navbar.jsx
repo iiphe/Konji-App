@@ -8,10 +8,10 @@ function Navbar() {
     <section className="bg-white">
       <header>
         
-        <nav className="flex flex-row container mx-auto md:h-full  justify-between items-center gap-[80px] item-start relative">
+        <nav className="flex flex-row container mx-auto md:h-full  w-[1512px] h-[] justify-between items-center gap-[80px] item-start relative">
           <div>
             <span
-              className="w-16 left-[-9px] p-1 h-[29px] shrink-0 basis-auto font-body text-[24px] font-bold leading-[29px] text-[#6acd6b] relative text-left whitespace-nowrap z-[129]"
+              className="w-16 left-[106px] p-1 h-[29px] shrink-0 basis-auto font-body text-[24px] font-bold leading-[29px] text-[#6acd6b] relative text-left whitespace-nowrap z-[129]"
               
             >
                 Konji
