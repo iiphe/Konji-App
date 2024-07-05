@@ -4,7 +4,7 @@ import hearticon from "../assets/hearticon.png";
 
 function Community() {
   return (
-    <div className="relative p-1 w-full h-screen flex-col border-red-100 flex ">
+    <div className="relative  w-full h-scree flex-col border-red-100 flex ">
       <div className=" md:w-[1512px] md:h-[600px] bg-[#e0f3df]  overflow-hidden z-[8]  mx-0 my-0">
         <div className="flex-col mt-0 md:w-[1312px] p-2 md:flex-col gap-[64px] flex items-center flex-nowrap relative md:mt-[125px] mr-0 mb-8 md:ml-[100px]">
           <div className="flex">

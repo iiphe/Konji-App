@@ -10,11 +10,11 @@ function Library() {
       <div className=" w-full p-2 md:p-3 relative md:flex  flex md:w-[1512px] md:h-[873px] justify-center  md:mb-10 my-0">
       <img className=" w-[100px] h-[300px] md:absolute  md:ml-[900px] absolute ml-[300px] mt-[600px] md:mt-[240px]  md:w-[120px] md:h-[300px] overflow-hidden " src={star} />
       <img
-        className=" w-[80px] h-[50px] mt-[-10px] ml-[-390px]  absolute flex md:w-[100px] md:h-[50.366px] shrink-0 bg-cover bg-no-repeat md:absolute z-[293] md:mt-[px]  md:ml-[-1400px]"
+        className=" w-[80px] h-[50px] mt-[-10px] ml-[-320px]  absolute flex md:w-[100px] md:h-[50.366px] shrink-0 bg-cover bg-no-repeat md:absolute z-[293] md:mt-[px]  md:ml-[-1400px]"
         src={vector3}
       />
       <div className="md:flex items-center  justify-center md:w-[150px] md:flex-row ml-[-0px] flex-col md:gap-[72px] md:items-center flex-nowrap md:absolut md:mt-[100px] md:mr-[100px] mb-0 md:ml-[-1150px]">
-        <span className="md:h-[39px] md:absolut md:ml-[980px] md:mt-[-550px] md: flex mt-[70px] ml-[25%] shrink-0 basis-auto font-heading md:text-[32px] text-[25px] font-semibold md:leading-[39px] leading-[30px]  text-[#000435] relative text-left whitespace-nowrap z-[44]">
+        <span className="md:h-[39px] md:absolut md:ml-[980px] md:mt-[-550px] md: flex mt-[70px] ml-[25%] shrink-0 basis-auto font-heading md:text-[32px] text-[20px] font-semibold md:leading-[39px] leading-[30px]  text-[#000435] relative text-left whitespace-nowrap z-[44]">
           Safe sex library
         </span>
         <div className=" p-2   md:flex-row flex-col mt-[100px] md:ml-[0px] md:absolute md:mt-[100px] md:w-[150px]  gap-[16px] shrink-0 md:flex">
@@ -44,7 +44,7 @@ function Library() {
           <button className="md:w-[370px]   md:h-[427px]  hover:bg-[#eef8eb] shrink-0 bg-[#fff] rounded-[16px] relative overflow-hidden shadow-[0_16px_20px_0_rgba(179,179,179,0.25)] z-[3]">
             <div className=" md:w-[250px]   md:flex-col relative z-[4] md:mt-[64px] md:mr-16 md:mb-[64px] md:ml-[40px]">
               <img
-                className="md:w-[350px]   md:h-[300.42px]  shrink-0  bg-[length:100%_100%]  bg-no-repeat relative z-[5]"
+                className="md:w-[350px]    md:h-[300.42px]  shrink-0  bg-[length:100%_100%]  bg-no-repeat relative z-[5]"
                 src={group9}
               />
             </div>

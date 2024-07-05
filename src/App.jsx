@@ -10,11 +10,14 @@ import SafeSex from './components/SafeSex';
 
 function App() {
   return (
-    <div className='main-container w-full max-w-screen-xl min-h-screen font-body bg-[#fff] relative over-flow-hidden mx-auto my-0'>
+    <div className='main-container w-full max-w-screen-xl min-h-screen  font-body bg-[#fff] relative over-flow-hidden mx-auto my-0'>
       <Navbar />
       <Hero />
       <Library />
       <Community />
+      <Content />
+      <SafeSex />
+      <Footer />
       
       
       {/* Other components */}
